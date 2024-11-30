@@ -24,7 +24,7 @@ This project addresses the scarcity of Spanish-language resources for Natural La
 
 This repository contains the following:
 
-* **Code:** The code for this project, implemented in Google Colab, is provided in the `code` directory (or specify the exact file name, e.g., `cognitive_distortion_classifier.ipynb`).  This includes the data preprocessing, model training, and evaluation scripts.
+* **Code:** The code for this project, implemented in Google Colab, is provided in the `code` directory (`cognitive_distortion_classifier.ipynb`).  This includes the data preprocessing, model training, and evaluation scripts.
 
 * **Dataset:** The processed dataset, translated into Spanish and vectorized for use with the BETO model, is available in the `data` directory. 
 
