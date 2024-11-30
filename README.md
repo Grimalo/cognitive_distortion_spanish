@@ -12,8 +12,4 @@ This project addresses the scarcity of Spanish-language resources for Natural La
 | C2D2: A Resource for Analyzing Cognitive Distortions and Its Impact on Mental Health | 7,500 instances, 8 labels, Chinese (Restricted Access - contact Dr. Bichen Wang) | [Link 4](https://github.com/bcwangavailable/C2D2-Cognitive-Distortion) |
 | Formulating Automated Responses to Cognitive Distortions for CBT Interactions | 200 data pairs, 14 labels, English | [Link 5](https://github.com/itoledorodriguez/cbt-dataset) |
 | Detection and Positive Reconstruction of Cognitive Distortion sentences | 4,000 instances, 10 labels, Chinese | [Link 6](https://github.com/405200144/Dataset-of-Cognitive-Distortion-detection-and-Positive-Reconstruction/tree/main) |
-content_copy
-Use code with caution.
-Markdown
 
-This is ready to be pasted directly into your GitHub README.md file. Remember to replace "Link 1", "Link 2", etc. with the actual URLs. The markdown formatting creates a clean, organized table.
